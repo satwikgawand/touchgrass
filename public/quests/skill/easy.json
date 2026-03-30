@@ -1,0 +1,92 @@
+[
+  {
+    "id": "skill-easy-001",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Fix one small thing in your home that's been broken for weeks",
+    "flavour": "the squeaky hinge. the dead lightbulb. the thing you walk past. fix it.",
+    "duration": "15 mins",
+    "tags": ["DIY", "maintenance", "home"]
+  },
+  {
+    "id": "skill-easy-002",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Learn 5 keyboard shortcuts you didn't know",
+    "flavour": "your mouse hand is tired. teach your fingers the language.",
+    "duration": "15 mins",
+    "tags": ["tech", "productivity", "learning"]
+  },
+  {
+    "id": "skill-easy-003",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Sketch or doodle something — no skill required, just make marks",
+    "flavour": "you don't have to be good at it. that's not the point. make something.",
+    "duration": "15 mins",
+    "tags": ["creative", "drawing", "making"]
+  },
+  {
+    "id": "skill-easy-004",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Learn to make one new thing in the kitchen",
+    "flavour": "recipe difficulty: beginner. outcome: you can make this forever now.",
+    "duration": "30 mins",
+    "tags": ["cooking", "learning", "kitchen"]
+  },
+  {
+    "id": "skill-easy-005",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Tidy and reorganize one drawer or shelf",
+    "flavour": "chaos: contained. the dopamine from this is unreasonably good.",
+    "duration": "20 mins",
+    "tags": ["organizing", "home", "declutter"]
+  },
+  {
+    "id": "skill-easy-006",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Learn 5 words in a language you've always wanted to learn",
+    "flavour": "five words. tiny. irreversible. you now know five words you didn't know.",
+    "duration": "15 mins",
+    "tags": ["language", "learning"]
+  },
+  {
+    "id": "skill-easy-007",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Teach yourself one new Excel/Sheets formula or shortcut",
+    "flavour": "VLOOKUP will change your life. no seriously. go look it up right now.",
+    "duration": "20 mins",
+    "tags": ["tech", "productivity", "learning"]
+  },
+  {
+    "id": "skill-easy-008",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Write a poem — terrible is allowed, quitting is not",
+    "flavour": "output: poem. quality: irrelevant. completion: mandatory.",
+    "duration": "15 mins",
+    "tags": ["writing", "creative", "making"]
+  },
+  {
+    "id": "skill-easy-009",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Learn how something in your daily life actually works",
+    "flavour": "pick any object. wifi router. microwave. your own immune system. how does it work?",
+    "duration": "20 mins",
+    "tags": ["curiosity", "learning"]
+  },
+  {
+    "id": "skill-easy-010",
+    "category": "skill",
+    "difficulty": "easy",
+    "title": "Plant something — seed, cutting, or pot a new plant",
+    "flavour": "living thing. in your custody. keep it alive. level 1: grow something.",
+    "duration": "20 mins",
+    "tags": ["plants", "making", "nature"]
+  }
+]

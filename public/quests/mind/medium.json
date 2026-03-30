@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mind-medium-001",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Do a 30-minute focus session on something you've been avoiding",
+    "flavour": "the thing you're avoiding is the thing. 30 minutes. one task. go.",
+    "duration": "30 mins",
+    "tags": ["focus", "discipline", "avoidance"]
+  },
+  {
+    "id": "mind-medium-002",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Read 50 pages of a book you've been meaning to start",
+    "flavour": "the book has been on the list. today it gets off the list.",
+    "duration": "1-2 hours",
+    "tags": ["reading", "focus", "learning"]
+  },
+  {
+    "id": "mind-medium-003",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Write a letter to yourself 1 year from now",
+    "flavour": "future you is watching. what do you want them to remember about today?",
+    "duration": "30 mins",
+    "tags": ["journaling", "reflection", "vision"]
+  },
+  {
+    "id": "mind-medium-004",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Learn the basics of something you know nothing about — one hour of focused reading/watching",
+    "flavour": "you don't have to become an expert. just stop being entirely clueless.",
+    "duration": "1 hour",
+    "tags": ["learning", "curiosity", "focus"]
+  },
+  {
+    "id": "mind-medium-005",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Spend 30 minutes with no plan — not Netflix, not music, not scroll. just unstructured time",
+    "flavour": "boredom is the petri dish of ideas. incubate.",
+    "duration": "30 mins",
+    "tags": ["boredom", "creativity", "stillness"]
+  },
+  {
+    "id": "mind-medium-006",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Make a decision you've been putting off — small or big. make it today",
+    "flavour": "decision fatigue is real. but indecision is worse. pick. move.",
+    "duration": "30 mins",
+    "tags": ["clarity", "decisions", "accountability"]
+  },
+  {
+    "id": "mind-medium-007",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Watch a documentary on a topic you know nothing about",
+    "flavour": "the algorithm only shows you what you already like. this is a jailbreak.",
+    "duration": "1-2 hours",
+    "tags": ["learning", "curiosity", "documentary"]
+  },
+  {
+    "id": "mind-medium-008",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Identify one belief you hold that you've never seriously questioned — and actually question it",
+    "flavour": "sacred cows detected. not killing it. just nudging it. see what moves.",
+    "duration": "45 mins",
+    "tags": ["reflection", "philosophy", "growth"]
+  },
+  {
+    "id": "mind-medium-009",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Do a proper life audit: write out what's working and what isn't across 5 areas of your life",
+    "flavour": "maintenance mode. run diagnostics. it's probably fine. check anyway.",
+    "duration": "45 mins",
+    "tags": ["journaling", "reflection", "clarity"]
+  },
+  {
+    "id": "mind-medium-010",
+    "category": "mind",
+    "difficulty": "medium",
+    "title": "Meditate for 20 minutes using a guided session or timer",
+    "flavour": "not emptying your mind. just watching the chaos without feeding it.",
+    "duration": "20 mins",
+    "tags": ["meditation", "mindfulness", "calm"]
+  }
+]

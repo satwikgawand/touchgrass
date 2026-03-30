@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mind-easy-001",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Write 3 things you're grateful for — but be specific, not generic",
+    "flavour": "not 'health'. something real. the coffee. the text. that one moment.",
+    "duration": "10 mins",
+    "tags": ["gratitude", "journaling", "reflection"]
+  },
+  {
+    "id": "mind-easy-002",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Sit in silence for 10 minutes — no input, no output",
+    "flavour": "your brain has 47 tabs open. close them. this is the restart.",
+    "duration": "10 mins",
+    "tags": ["stillness", "mindfulness"]
+  },
+  {
+    "id": "mind-easy-003",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Read for 20 minutes — physical book preferred, no articles",
+    "flavour": "long-form content. no scroll. sentences that go past 280 characters.",
+    "duration": "20 mins",
+    "tags": ["reading", "focus"]
+  },
+  {
+    "id": "mind-easy-004",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Write one paragraph about what you actually want right now in life",
+    "flavour": "not the ideal. not the vague dream. what do you actually want. write it.",
+    "duration": "10 mins",
+    "tags": ["journaling", "clarity", "reflection"]
+  },
+  {
+    "id": "mind-easy-005",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Learn one new fact about something you've always been curious about",
+    "flavour": "curiosity: installed. never opened. launch it.",
+    "duration": "15 mins",
+    "tags": ["learning", "curiosity"]
+  },
+  {
+    "id": "mind-easy-006",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Put your phone in another room for 2 hours",
+    "flavour": "it will still exist. you will still exist. separately. that's fine.",
+    "duration": "2 hours",
+    "tags": ["detox", "focus", "presence"]
+  },
+  {
+    "id": "mind-easy-007",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Identify one thing that drained your energy recently and name why",
+    "flavour": "not to fix it. just to name it. naming is half the work.",
+    "duration": "10 mins",
+    "tags": ["reflection", "self-awareness"]
+  },
+  {
+    "id": "mind-easy-008",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Listen to an album from start to finish — no skipping",
+    "flavour": "shuffle culture broke your attention span. repair it. listen linearly.",
+    "duration": "45 mins",
+    "tags": ["music", "focus", "presence"]
+  },
+  {
+    "id": "mind-easy-009",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Do a 5-minute breathing exercise — box breathing or 4-7-8",
+    "flavour": "your nervous system is running hot. this is the cooldown patch.",
+    "duration": "5 mins",
+    "tags": ["breathing", "calm", "mindfulness"]
+  },
+  {
+    "id": "mind-easy-010",
+    "category": "mind",
+    "difficulty": "easy",
+    "title": "Write down 3 things that went well today — before you sleep",
+    "flavour": "the brain defaults to threat detection. override it tonight.",
+    "duration": "5 mins",
+    "tags": ["journaling", "reflection", "evening"]
+  }
+]

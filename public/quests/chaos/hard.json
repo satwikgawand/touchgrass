@@ -1,0 +1,92 @@
+[
+  {
+    "id": "chaos-hard-001",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Take a train or bus to a random stop you've never visited and spend 2 hours there",
+    "flavour": "pick a direction. pick a stop. show up. something will happen.",
+    "duration": "3-4 hours",
+    "tags": ["exploration", "spontaneous", "IRL"]
+  },
+  {
+    "id": "chaos-hard-002",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Do something you said you'd never do — commit to it for the full day",
+    "flavour": "the 'never' is a cage you built yourself. pick one. unlock it.",
+    "duration": "Full day",
+    "tags": ["challenge", "identity", "growth"]
+  },
+  {
+    "id": "chaos-hard-003",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Say yes to the first invitation or opportunity that comes your way today — no matter what it is",
+    "flavour": "full commitment. whatever comes. you won't die. probably.",
+    "duration": "Varies",
+    "tags": ["spontaneous", "yes", "trust"]
+  },
+  {
+    "id": "chaos-hard-004",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Spend a full day pretending you're visiting your city as a tourist — actually do tourist things",
+    "flavour": "familiarity blindness: cured. the city is stranger than you remember.",
+    "duration": "Full day",
+    "tags": ["exploration", "novelty", "presence"]
+  },
+  {
+    "id": "chaos-hard-005",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Sign up for something that terrifies you slightly — a performance, a competition, a presentation",
+    "flavour": "fear is the compass. it's pointing at the thing. sign up for the thing.",
+    "duration": "30 mins sign-up + future event",
+    "tags": ["courage", "commitment", "fear"]
+  },
+  {
+    "id": "chaos-hard-006",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Leave your phone at home for the entire day",
+    "flavour": "your phone is the comfort object. walk out without it. you know where you live.",
+    "duration": "Full day",
+    "tags": ["detox", "presence", "challenge"]
+  },
+  {
+    "id": "chaos-hard-007",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Delete one social media app for a week — right now",
+    "flavour": "not a break. a deletion. seven days. see who you are without it.",
+    "duration": "Full week",
+    "tags": ["detox", "identity", "discipline"]
+  },
+  {
+    "id": "chaos-hard-008",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Spend a full day doing the opposite of your default — introvert goes out, extrovert stays in",
+    "flavour": "your defaults are defaults for a reason. override them. just once.",
+    "duration": "Full day",
+    "tags": ["identity", "pattern-break", "growth"]
+  },
+  {
+    "id": "chaos-hard-009",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Tell someone your most embarrassing story — in person, out loud",
+    "flavour": "the embarrassing story is a secret you're guarding for no reason. release it.",
+    "duration": "30 mins",
+    "tags": ["vulnerability", "humor", "social"]
+  },
+  {
+    "id": "chaos-hard-010",
+    "category": "chaos",
+    "difficulty": "hard",
+    "title": "Plan a spontaneous day trip to somewhere within 2 hours — go today",
+    "flavour": "you are not too busy. pick a place. get in the car/bus/train. go.",
+    "duration": "Full day",
+    "tags": ["travel", "spontaneous", "exploration"]
+  }
+]

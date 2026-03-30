@@ -1,0 +1,92 @@
+[
+  {
+    "id": "social-easy-001",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Text someone you haven't spoken to in 3+ months",
+    "flavour": "NPC dialogue trees always start with a greeting. you are the NPC. initiate.",
+    "duration": "5 mins",
+    "tags": ["connection", "low-effort"]
+  },
+  {
+    "id": "social-easy-002",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Send a voice note instead of a text",
+    "flavour": "you have a voice. use it. full sentences preferred but not required.",
+    "duration": "5 mins",
+    "tags": ["communication", "low-effort"]
+  },
+  {
+    "id": "social-easy-003",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "React to 3 stories from people you rarely interact with",
+    "flavour": "the algorithm buried them. unbury them. one emoji counts.",
+    "duration": "5 mins",
+    "tags": ["digital", "low-effort"]
+  },
+  {
+    "id": "social-easy-004",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Compliment a stranger — in person, not online",
+    "flavour": "IRL chat not unlocked? today it is. pick something real.",
+    "duration": "2 mins",
+    "tags": ["IRL", "connection"]
+  },
+  {
+    "id": "social-easy-005",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Ask someone how they're actually doing and wait for the real answer",
+    "flavour": "not the 'good you?' speedrun. the full dialogue. let them load.",
+    "duration": "10 mins",
+    "tags": ["listening", "connection"]
+  },
+  {
+    "id": "social-easy-006",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Send a meme to someone who would get it",
+    "flavour": "targeted cultural transmission. this is how bonds form. send it.",
+    "duration": "3 mins",
+    "tags": ["digital", "humor"]
+  },
+  {
+    "id": "social-easy-007",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Thank someone who did something small for you recently",
+    "flavour": "the gratitude buffer is full. flush it.",
+    "duration": "3 mins",
+    "tags": ["gratitude", "connection"]
+  },
+  {
+    "id": "social-easy-008",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Share something you're currently enjoying with one person",
+    "flavour": "song, article, show, recipe — doesn't matter. share the thing.",
+    "duration": "5 mins",
+    "tags": ["sharing", "connection"]
+  },
+  {
+    "id": "social-easy-009",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Check in on a family member you haven't spoken to this week",
+    "flavour": "they exist in real life, not just in your contacts list.",
+    "duration": "5 mins",
+    "tags": ["family", "connection"]
+  },
+  {
+    "id": "social-easy-010",
+    "category": "social",
+    "difficulty": "easy",
+    "title": "Reply to a message you've been leaving on read",
+    "flavour": "the conversation didn't expire. they're still there. respond.",
+    "duration": "5 mins",
+    "tags": ["communication", "accountability"]
+  }
+]

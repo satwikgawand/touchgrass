@@ -1,0 +1,19 @@
+{
+  "files": [
+    "social/easy.json",
+    "social/medium.json",
+    "social/hard.json",
+    "body/easy.json",
+    "body/medium.json",
+    "body/hard.json",
+    "mind/easy.json",
+    "mind/medium.json",
+    "mind/hard.json",
+    "skill/easy.json",
+    "skill/medium.json",
+    "skill/hard.json",
+    "chaos/easy.json",
+    "chaos/medium.json",
+    "chaos/hard.json"
+  ]
+}
