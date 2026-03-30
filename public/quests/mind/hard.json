@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mind-hard-001",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Spend a full day journaling — morning pages, midday check-in, evening review",
+    "flavour": "three sessions. one day. you'll understand yourself differently by evening.",
+    "duration": "Full day (1hr total)",
+    "tags": ["journaling", "depth", "self-awareness"]
+  },
+  {
+    "id": "mind-hard-002",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Sign up for a class or course on something you've wanted to learn for years",
+    "flavour": "you've said 'one day' enough. today one day becomes day one.",
+    "duration": "2+ hours",
+    "tags": ["learning", "commitment", "growth"]
+  },
+  {
+    "id": "mind-hard-003",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Do a complete social media detox for the day — delete the apps if needed",
+    "flavour": "the feed isn't going anywhere. you are. see you on the other side.",
+    "duration": "Full day",
+    "tags": ["detox", "discipline", "clarity"]
+  },
+  {
+    "id": "mind-hard-004",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Read an entire long-form essay, book chapter, or paper on a topic that genuinely challenges your worldview",
+    "flavour": "not to agree. not to fight. to be changed slightly. that's the point.",
+    "duration": "2 hours",
+    "tags": ["reading", "growth", "depth"]
+  },
+  {
+    "id": "mind-hard-005",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Have a serious conversation with yourself — what are you running from right now?",
+    "flavour": "the avoidance has a shape. sit with it. name it. don't fix it yet.",
+    "duration": "1-2 hours",
+    "tags": ["reflection", "self-awareness", "depth"]
+  },
+  {
+    "id": "mind-hard-006",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Spend 3 hours in a library, museum, or archive exploring something with no agenda",
+    "flavour": "no goal. no outcome. just curiosity with legs. follow whatever calls.",
+    "duration": "3 hours",
+    "tags": ["curiosity", "exploration", "learning"]
+  },
+  {
+    "id": "mind-hard-007",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Write a 500-word honest reflection on where you are vs where you thought you'd be",
+    "flavour": "the gap between expected and actual is data. write it down. don't edit it.",
+    "duration": "1-2 hours",
+    "tags": ["journaling", "honesty", "reflection"]
+  },
+  {
+    "id": "mind-hard-008",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Spend a morning meditating for 45 minutes — sit with the discomfort",
+    "flavour": "your brain will throw everything at you. watch it. don't run.",
+    "duration": "45 mins",
+    "tags": ["meditation", "discipline", "depth"]
+  },
+  {
+    "id": "mind-hard-009",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Create a personal manifesto — your values, how you want to live, what you won't compromise on",
+    "flavour": "you've been operating on default settings. today you write your own firmware.",
+    "duration": "2-3 hours",
+    "tags": ["vision", "values", "journaling"]
+  },
+  {
+    "id": "mind-hard-010",
+    "category": "mind",
+    "difficulty": "hard",
+    "title": "Spend the day without complaining — notice every time you want to and choose otherwise",
+    "flavour": "complaint detected. complaining noted. replacing with observation. repeat.",
+    "duration": "Full day",
+    "tags": ["mindfulness", "discipline", "self-awareness"]
+  }
+]

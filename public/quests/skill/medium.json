@@ -1,0 +1,92 @@
+[
+  {
+    "id": "skill-medium-001",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Cook a full meal from a recipe you've never tried before",
+    "flavour": "you've been eating the same 4 meals. today is meal 5. make it count.",
+    "duration": "1 hour",
+    "tags": ["cooking", "learning", "kitchen"]
+  },
+  {
+    "id": "skill-medium-002",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Repair something instead of throwing it away",
+    "flavour": "broken ≠ trash. the skill of fixing things is disappearing. resist.",
+    "duration": "1 hour",
+    "tags": ["DIY", "repair", "sustainability"]
+  },
+  {
+    "id": "skill-medium-003",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Build or assemble something with your hands",
+    "flavour": "IKEA counts. Arduino counts. a birdhouse counts. make a physical thing.",
+    "duration": "1-2 hours",
+    "tags": ["making", "DIY", "hands-on"]
+  },
+  {
+    "id": "skill-medium-004",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Learn a basic chord on guitar, or a short melody on any instrument",
+    "flavour": "music: the oldest skill. you don't have to be good. just start.",
+    "duration": "45 mins",
+    "tags": ["music", "learning", "creative"]
+  },
+  {
+    "id": "skill-medium-005",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Redesign something — your desktop, your workspace, how you organize notes",
+    "flavour": "your setup is a product of defaults. today you choose intentionally.",
+    "duration": "45 mins",
+    "tags": ["design", "productivity", "organization"]
+  },
+  {
+    "id": "skill-medium-006",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Write a short story — at least 300 words, any genre",
+    "flavour": "character. conflict. resolution. you've read enough stories. write one.",
+    "duration": "45-60 mins",
+    "tags": ["writing", "creative", "making"]
+  },
+  {
+    "id": "skill-medium-007",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Deep clean one room properly — not surface level, actually clean it",
+    "flavour": "not the fake clean. the real clean. baseboards. behind things. under things.",
+    "duration": "1 hour",
+    "tags": ["cleaning", "home", "discipline"]
+  },
+  {
+    "id": "skill-medium-008",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Complete a tutorial on a skill you've been meaning to learn",
+    "flavour": "it's been in your 'watch later'. today it gets watched and practiced.",
+    "duration": "1 hour",
+    "tags": ["learning", "tutorial", "growth"]
+  },
+  {
+    "id": "skill-medium-009",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Take 20 intentional photos — compose each one, don't just snap",
+    "flavour": "your phone is a camera. you've been using it wrong. slow down. compose.",
+    "duration": "1 hour",
+    "tags": ["photography", "creative", "attention"]
+  },
+  {
+    "id": "skill-medium-010",
+    "category": "skill",
+    "difficulty": "medium",
+    "title": "Budget your month — every income, every expense, actual numbers",
+    "flavour": "the vibes-based budget isn't working. time for numbers. they're not scary.",
+    "duration": "45 mins",
+    "tags": ["finance", "planning", "adulting"]
+  }
+]

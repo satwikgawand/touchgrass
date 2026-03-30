@@ -1,0 +1,92 @@
+[
+  {
+    "id": "chaos-easy-001",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Take a different route to wherever you're going today",
+    "flavour": "new input. different streets. novel stimuli. your brain will notice.",
+    "duration": "Varies",
+    "tags": ["pattern-break", "exploration"]
+  },
+  {
+    "id": "chaos-easy-002",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Eat something you've never tried before",
+    "flavour": "your palate is stuck in 2018. expand it. one new thing.",
+    "duration": "30 mins",
+    "tags": ["food", "novelty", "pattern-break"]
+  },
+  {
+    "id": "chaos-easy-003",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Change one thing about your morning routine",
+    "flavour": "you've been doing it the same way for years. swap one element. see what shifts.",
+    "duration": "Morning",
+    "tags": ["habit", "pattern-break", "routine"]
+  },
+  {
+    "id": "chaos-easy-004",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Listen to a genre of music you'd normally skip",
+    "flavour": "algorithm: defeated. your taste: temporarily hijacked. it's fine.",
+    "duration": "30 mins",
+    "tags": ["music", "novelty", "pattern-break"]
+  },
+  {
+    "id": "chaos-easy-005",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Rearrange a piece of furniture",
+    "flavour": "your environment shapes your thoughts. rearrange the thoughts by rearranging the room.",
+    "duration": "20 mins",
+    "tags": ["home", "change", "environment"]
+  },
+  {
+    "id": "chaos-easy-006",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Wear something you own but never actually wear",
+    "flavour": "the unworn item is a commitment you made and forgot. honor it.",
+    "duration": "All day",
+    "tags": ["fashion", "novelty", "identity"]
+  },
+  {
+    "id": "chaos-easy-007",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Watch or read something outside your usual taste with full commitment",
+    "flavour": "no ironic distance. no eye-rolling. full sincere engagement. feel it.",
+    "duration": "1 hour",
+    "tags": ["media", "openness", "novelty"]
+  },
+  {
+    "id": "chaos-easy-008",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Sit at a different spot than usual — new café, different room, outside",
+    "flavour": "same you, different coordinates. context shifts cognition. move.",
+    "duration": "All day",
+    "tags": ["environment", "pattern-break"]
+  },
+  {
+    "id": "chaos-easy-009",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Say yes to the next spontaneous invitation you get today",
+    "flavour": "something will come up. say yes. log off from the plan.",
+    "duration": "Varies",
+    "tags": ["spontaneous", "social", "yes"]
+  },
+  {
+    "id": "chaos-easy-010",
+    "category": "chaos",
+    "difficulty": "easy",
+    "title": "Flip a coin to decide something you've been overthinking",
+    "flavour": "the coin doesn't decide. your reaction to the coin result tells you what you wanted.",
+    "duration": "Instant",
+    "tags": ["decisions", "pattern-break", "philosophy"]
+  }
+]

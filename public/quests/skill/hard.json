@@ -1,0 +1,92 @@
+[
+  {
+    "id": "skill-hard-001",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Start a project you've been putting off for months — do the first real step today",
+    "flavour": "not 'think about it'. not 'research it more'. do the first concrete thing.",
+    "duration": "2-3 hours",
+    "tags": ["project", "commitment", "action"]
+  },
+  {
+    "id": "skill-hard-002",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Sign up for a class that teaches a skill you've always wanted — first session this week",
+    "flavour": "you've been saying you'd learn it. this is the part where you actually do.",
+    "duration": "3+ hours",
+    "tags": ["learning", "commitment", "IRL"]
+  },
+  {
+    "id": "skill-hard-003",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Complete a substantial DIY project — paint a room, build a shelf, fix a bike",
+    "flavour": "full project. start to finish. you are the contractor. execute.",
+    "duration": "Full day or half day",
+    "tags": ["DIY", "making", "completion"]
+  },
+  {
+    "id": "skill-hard-004",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Spend a full day on a creative project with nothing to show for it at start",
+    "flavour": "blank canvas. full day. something will exist that didn't before.",
+    "duration": "Full day",
+    "tags": ["creative", "making", "art"]
+  },
+  {
+    "id": "skill-hard-005",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Cook a three-course meal for someone else",
+    "flavour": "starter, main, dessert. from scratch. someone will eat your output.",
+    "duration": "3 hours",
+    "tags": ["cooking", "social", "making"]
+  },
+  {
+    "id": "skill-hard-006",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Learn enough of a language to have a basic 5-minute conversation",
+    "flavour": "greetings. numbers. please and thank you. it's more than zero. start.",
+    "duration": "2-3 hours",
+    "tags": ["language", "learning", "commitment"]
+  },
+  {
+    "id": "skill-hard-007",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Declutter and donate a full bag of things from your home",
+    "flavour": "the stuff you own, owns you. release one bag of captives.",
+    "duration": "2-3 hours",
+    "tags": ["declutter", "minimalism", "home"]
+  },
+  {
+    "id": "skill-hard-008",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Write and publish something — a blog post, a thread, a short essay",
+    "flavour": "it doesn't have to go viral. it has to exist. publish it.",
+    "duration": "2-3 hours",
+    "tags": ["writing", "publishing", "courage"]
+  },
+  {
+    "id": "skill-hard-009",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Build something small with code — a script, a webpage, a tool",
+    "flavour": "you don't have to be a developer. you just have to make a thing that runs.",
+    "duration": "2-4 hours",
+    "tags": ["coding", "making", "tech"]
+  },
+  {
+    "id": "skill-hard-010",
+    "category": "skill",
+    "difficulty": "hard",
+    "title": "Spend the day mastering one specific skill you're mediocre at — intense, focused practice",
+    "flavour": "deliberate practice. not casual dabbling. the difference is the intent.",
+    "duration": "Full day",
+    "tags": ["mastery", "discipline", "practice"]
+  }
+]

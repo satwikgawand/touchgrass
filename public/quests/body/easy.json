@@ -1,0 +1,92 @@
+[
+  {
+    "id": "body-easy-001",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Drink 8 glasses of water today",
+    "flavour": "hydration speedrun. your body is running on 2%. fix it.",
+    "duration": "All day",
+    "tags": ["hydration", "health"]
+  },
+  {
+    "id": "body-easy-002",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Take a 20-minute walk outside — no headphones, no phone",
+    "flavour": "skill: noticing things. xp gained: whatever is around you right now.",
+    "duration": "20 mins",
+    "tags": ["movement", "mindfulness", "outside"]
+  },
+  {
+    "id": "body-easy-003",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Go to bed before midnight tonight",
+    "flavour": "your sleep schedule is a war crime. declare a ceasefire.",
+    "duration": "All day",
+    "tags": ["sleep", "recovery"]
+  },
+  {
+    "id": "body-easy-004",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Do 10 minutes of stretching",
+    "flavour": "your hamstrings are filing a complaint. this is the resolution.",
+    "duration": "10 mins",
+    "tags": ["flexibility", "movement"]
+  },
+  {
+    "id": "body-easy-005",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Eat a proper breakfast — not just coffee",
+    "flavour": "your brain is booting on fumes. load the fuel first.",
+    "duration": "20 mins",
+    "tags": ["nutrition", "morning"]
+  },
+  {
+    "id": "body-easy-006",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Take the stairs instead of the elevator all day",
+    "flavour": "the elevator is a crutch. the stairs are a character arc.",
+    "duration": "All day",
+    "tags": ["movement", "habit"]
+  },
+  {
+    "id": "body-easy-007",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Do 20 minutes of movement — anything counts",
+    "flavour": "dancing in your room counts. the body doesn't care if it's embarrassing.",
+    "duration": "20 mins",
+    "tags": ["movement", "exercise"]
+  },
+  {
+    "id": "body-easy-008",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Spend 20 minutes outside — just exist in it",
+    "flavour": "sun detected. processing... processing... recommend exposure.",
+    "duration": "20 mins",
+    "tags": ["outside", "nature", "recovery"]
+  },
+  {
+    "id": "body-easy-009",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Eat one meal with no screens",
+    "flavour": "food deserves your full attention. taste it. what does it taste like?",
+    "duration": "20 mins",
+    "tags": ["nutrition", "mindfulness"]
+  },
+  {
+    "id": "body-easy-010",
+    "category": "body",
+    "difficulty": "easy",
+    "title": "Take a proper nap (20–30 mins) if you're tired",
+    "flavour": "sleep debt is real debt. this is a partial payment. take it.",
+    "duration": "30 mins",
+    "tags": ["sleep", "recovery"]
+  }
+]

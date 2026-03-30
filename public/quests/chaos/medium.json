@@ -1,0 +1,92 @@
+[
+  {
+    "id": "chaos-medium-001",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Go somewhere in your city you've never been before",
+    "flavour": "your map has blank spots. fill one in. go there. report back.",
+    "duration": "2 hours",
+    "tags": ["exploration", "city", "novelty"]
+  },
+  {
+    "id": "chaos-medium-002",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Start a conversation with someone who seems interesting at a coffee shop or public space",
+    "flavour": "stranger danger protocol: suspended. you're not a child. say something.",
+    "duration": "30 mins",
+    "tags": ["social", "spontaneous", "IRL"]
+  },
+  {
+    "id": "chaos-medium-003",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Spend an hour doing something completely analog — no electricity",
+    "flavour": "your ancestors didn't have power strips. they were fine. sort of.",
+    "duration": "1 hour",
+    "tags": ["analog", "detox", "pattern-break"]
+  },
+  {
+    "id": "chaos-medium-004",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Do the thing you always say you're 'too busy' for",
+    "flavour": "'too busy' is the NPC excuse. what's the thing? do it today.",
+    "duration": "1-2 hours",
+    "tags": ["avoidance", "action", "pattern-break"]
+  },
+  {
+    "id": "chaos-medium-005",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Cook a meal from a country whose cuisine you've never made before",
+    "flavour": "the internet has every recipe. you have a kitchen. cross the gap.",
+    "duration": "1 hour",
+    "tags": ["cooking", "culture", "novelty"]
+  },
+  {
+    "id": "chaos-medium-006",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Spend a full afternoon with no agenda — wander, drift, follow your nose",
+    "flavour": "optimization: off. efficiency: off. presence: on. go.",
+    "duration": "3 hours",
+    "tags": ["wandering", "presence", "spontaneous"]
+  },
+  {
+    "id": "chaos-medium-007",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Reconnect with an old hobby you abandoned",
+    "flavour": "you used to do something for fun. remember? that thing. do it again.",
+    "duration": "1-2 hours",
+    "tags": ["hobby", "nostalgia", "joy"]
+  },
+  {
+    "id": "chaos-medium-008",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Attend something free and local — open mic, market, exhibition, class",
+    "flavour": "your city has things happening. they're not on your screen. go find one.",
+    "duration": "2 hours",
+    "tags": ["community", "local", "IRL"]
+  },
+  {
+    "id": "chaos-medium-009",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Do 30 minutes of something purely for fun with zero productivity value",
+    "flavour": "not everything needs ROI. this is allowed. you're allowed.",
+    "duration": "30 mins",
+    "tags": ["play", "joy", "permission"]
+  },
+  {
+    "id": "chaos-medium-010",
+    "category": "chaos",
+    "difficulty": "medium",
+    "title": "Change your phone wallpaper and ringtone and actually notice the difference",
+    "flavour": "tiny change. high visibility. your brain will be confused for 3 days. good.",
+    "duration": "10 mins + all day",
+    "tags": ["environment", "habit", "pattern-break"]
+  }
+]

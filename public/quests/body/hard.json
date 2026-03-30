@@ -1,0 +1,92 @@
+[
+  {
+    "id": "body-hard-001",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Sign up for a 5K, fun run, or fitness event and commit to the date",
+    "flavour": "you signed up. you're going. this is not a simulation.",
+    "duration": "2+ hours",
+    "tags": ["commitment", "running", "IRL"]
+  },
+  {
+    "id": "body-hard-002",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Do a full-day digital detox — no screens from morning to evening",
+    "flavour": "the feed will survive without you. will you survive without the feed?",
+    "duration": "Full day",
+    "tags": ["detox", "discipline", "recovery"]
+  },
+  {
+    "id": "body-hard-003",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Go for a hike — 10km+ or something that challenges you",
+    "flavour": "somewhere out there is a trail that doesn't care about your comfort zone.",
+    "duration": "3-5 hours",
+    "tags": ["hiking", "nature", "endurance"]
+  },
+  {
+    "id": "body-hard-004",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Try a physical class you've never done — martial arts, climbing, yoga, boxing",
+    "flavour": "beginner status is temporary. showing up is the hard part. you're already late.",
+    "duration": "2 hours",
+    "tags": ["new skill", "community", "courage"]
+  },
+  {
+    "id": "body-hard-005",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Spend a full day eating only whole, unprocessed food",
+    "flavour": "your body is hardware. today you're running the premium config.",
+    "duration": "Full day",
+    "tags": ["nutrition", "discipline", "health"]
+  },
+  {
+    "id": "body-hard-006",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Wake up before 6am and do something active before 7am",
+    "flavour": "your sleep schedule is a crime. today you fix it by force.",
+    "duration": "1-2 hours",
+    "tags": ["morning", "discipline", "movement"]
+  },
+  {
+    "id": "body-hard-007",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Do a two-hour workout — full effort, not a stroll",
+    "flavour": "you've been half-committing. today is not a half day.",
+    "duration": "2 hours",
+    "tags": ["exercise", "endurance", "discipline"]
+  },
+  {
+    "id": "body-hard-008",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Spend a day with no caffeine",
+    "flavour": "the caffeine dependency is real. one day without it reveals the scale of the problem.",
+    "duration": "Full day",
+    "tags": ["detox", "discipline", "health"]
+  },
+  {
+    "id": "body-hard-009",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Swim a continuous 1km (or take a first-ever swimming lesson)",
+    "flavour": "water mode. you're not built for it. try anyway.",
+    "duration": "1-2 hours",
+    "tags": ["swimming", "endurance", "new skill"]
+  },
+  {
+    "id": "body-hard-010",
+    "category": "body",
+    "difficulty": "hard",
+    "title": "Complete a 24-hour no-junk-food, no-alcohol, no-scroll day — all three",
+    "flavour": "triple constraint mode. one day. the reset you keep telling yourself you'll do.",
+    "duration": "Full day",
+    "tags": ["detox", "discipline", "reset"]
+  }
+]

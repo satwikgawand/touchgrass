@@ -1,0 +1,92 @@
+[
+  {
+    "id": "social-hard-001",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Go to a social event where you know nobody and introduce yourself to 5 strangers",
+    "flavour": "you spawned into a server with no friends. this is normal. load in.",
+    "duration": "2-3 hours",
+    "tags": ["social-risk", "courage", "IRL"]
+  },
+  {
+    "id": "social-hard-002",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Apologize to someone you've wronged — in person or by call, not text",
+    "flavour": "the unsent apology is rotting in your inventory. deliver it.",
+    "duration": "30-60 mins",
+    "tags": ["accountability", "repair", "courage"]
+  },
+  {
+    "id": "social-hard-003",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Ask someone out — a date, a friendship, a collab. any ask that scares you",
+    "flavour": "the worst outcome is a no. you already have a no. swing anyway.",
+    "duration": "5 mins (but it'll feel like 5 hours)",
+    "tags": ["courage", "vulnerability"]
+  },
+  {
+    "id": "social-hard-004",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Host something at your place — dinner, game night, movie — minimum 3 guests",
+    "flavour": "you are the host. the party is at your location. deploy snacks.",
+    "duration": "3-4 hours",
+    "tags": ["hosting", "planning", "IRL"]
+  },
+  {
+    "id": "social-hard-005",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Have a conversation with someone from a completely different background or viewpoint — genuinely listen",
+    "flavour": "not to win. not to fix. to understand. that's the whole mission.",
+    "duration": "1-2 hours",
+    "tags": ["empathy", "depth", "growth"]
+  },
+  {
+    "id": "social-hard-006",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Volunteer for a cause or organization for half a day",
+    "flavour": "show up. do the work. you won't regret it.",
+    "duration": "4 hours",
+    "tags": ["community", "service", "IRL"]
+  },
+  {
+    "id": "social-hard-007",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Tell someone in your life something honest you've been holding back",
+    "flavour": "the unsaid thing takes up space. say it with care, but say it.",
+    "duration": "1 hour",
+    "tags": ["honesty", "vulnerability", "depth"]
+  },
+  {
+    "id": "social-hard-008",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Spend a full day with a person you've been keeping at arm's length",
+    "flavour": "let them in. fully. see what happens.",
+    "duration": "Full day",
+    "tags": ["vulnerability", "depth", "connection"]
+  },
+  {
+    "id": "social-hard-009",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Join a recurring social group (class, club, team) and show up for the first session",
+    "flavour": "you signed up. you're going. this is not a simulation.",
+    "duration": "2-3 hours",
+    "tags": ["commitment", "community", "IRL"]
+  },
+  {
+    "id": "social-hard-010",
+    "category": "social",
+    "difficulty": "hard",
+    "title": "Start a conversation with a stranger on public transit and let it go somewhere real",
+    "flavour": "human beings are on this bus. you are one of them. act accordingly.",
+    "duration": "30 mins",
+    "tags": ["IRL", "courage", "spontaneous"]
+  }
+]

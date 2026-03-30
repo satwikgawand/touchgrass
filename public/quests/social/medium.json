@@ -1,0 +1,92 @@
+[
+  {
+    "id": "social-medium-001",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Have coffee or lunch with someone you've been meaning to catch up with",
+    "flavour": "'we should hang soon' → today is soon. execute the plan.",
+    "duration": "1 hour",
+    "tags": ["IRL", "planning"]
+  },
+  {
+    "id": "social-medium-002",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Call someone instead of texting them — and stay on for at least 15 minutes",
+    "flavour": "voice calls are a lost art. ancient technology. rediscover it.",
+    "duration": "20 mins",
+    "tags": ["calling", "depth"]
+  },
+  {
+    "id": "social-medium-003",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Introduce yourself to a neighbor you've never spoken to",
+    "flavour": "you share a building/street/planet. might as well have a name for them.",
+    "duration": "15 mins",
+    "tags": ["IRL", "community"]
+  },
+  {
+    "id": "social-medium-004",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Attend a local event by yourself — stay for at least an hour",
+    "flavour": "solo mode unlocked. no co-op required. observe. exist. maybe talk.",
+    "duration": "1-2 hours",
+    "tags": ["solo", "community", "IRL"]
+  },
+  {
+    "id": "social-medium-005",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Have a real disagreement with someone — calmly, without backing down or blowing up",
+    "flavour": "not every conflict needs to be avoided. practice holding your ground.",
+    "duration": "30 mins",
+    "tags": ["communication", "growth"]
+  },
+  {
+    "id": "social-medium-006",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Write and send a letter or card — on actual paper",
+    "flavour": "analog transmission. someone will hold this. they'll feel it differently.",
+    "duration": "30 mins",
+    "tags": ["writing", "analog"]
+  },
+  {
+    "id": "social-medium-007",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Reconnect with someone you had a falling out with — just reach out",
+    "flavour": "you don't have to fix everything. just open the door a crack.",
+    "duration": "30 mins",
+    "tags": ["repair", "courage"]
+  },
+  {
+    "id": "social-medium-008",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Ask someone in your life for honest feedback about yourself",
+    "flavour": "not 'am i cool?' ask something real. brace for honesty. grow.",
+    "duration": "30 mins",
+    "tags": ["vulnerability", "growth"]
+  },
+  {
+    "id": "social-medium-009",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Organize a group hangout with 3+ people",
+    "flavour": "you are the main character. main characters make plans. make a plan.",
+    "duration": "45 mins planning + hangout",
+    "tags": ["planning", "social"]
+  },
+  {
+    "id": "social-medium-010",
+    "category": "social",
+    "difficulty": "medium",
+    "title": "Spend an hour with a family member doing something they want to do",
+    "flavour": "on their terms. their activity. your full attention. no phone.",
+    "duration": "1 hour",
+    "tags": ["family", "presence"]
+  }
+]

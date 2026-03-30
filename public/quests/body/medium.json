@@ -1,0 +1,92 @@
+[
+  {
+    "id": "body-medium-001",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Go for a run — at least 3km",
+    "flavour": "the first 5 minutes are awful. push through them. the rest is different.",
+    "duration": "30-40 mins",
+    "tags": ["running", "cardio"]
+  },
+  {
+    "id": "body-medium-002",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Cook a meal from scratch with at least 5 ingredients",
+    "flavour": "you've been saying you'd cook. today is the day. no excuses.",
+    "duration": "45-60 mins",
+    "tags": ["cooking", "nutrition"]
+  },
+  {
+    "id": "body-medium-003",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Do a full 45-minute workout — no half-reps, no quitting early",
+    "flavour": "your future self is watching. they're nodding. do the thing.",
+    "duration": "45 mins",
+    "tags": ["exercise", "discipline"]
+  },
+  {
+    "id": "body-medium-004",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Bike or walk to somewhere you'd normally drive or transit",
+    "flavour": "your legs are transport technology. deploy them.",
+    "duration": "30-60 mins",
+    "tags": ["movement", "transport", "outside"]
+  },
+  {
+    "id": "body-medium-005",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Try a physical activity you've never done before",
+    "flavour": "new body skill acquired. noob status accepted. show up anyway.",
+    "duration": "1 hour",
+    "tags": ["new skill", "movement", "courage"]
+  },
+  {
+    "id": "body-medium-006",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Go to bed an hour earlier than usual tonight",
+    "flavour": "the night scroll is a trap. exit the trap. recharge.",
+    "duration": "All evening",
+    "tags": ["sleep", "discipline"]
+  },
+  {
+    "id": "body-medium-007",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Eat only home-cooked food today",
+    "flavour": "you know what's in it. that's a feature.",
+    "duration": "All day",
+    "tags": ["nutrition", "discipline"]
+  },
+  {
+    "id": "body-medium-008",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Spend an hour doing something physically active with another person",
+    "flavour": "movement plus company. the ancient combination. very effective.",
+    "duration": "1 hour",
+    "tags": ["social", "movement", "IRL"]
+  },
+  {
+    "id": "body-medium-009",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Do a cold shower — or end your shower with 60 seconds of cold",
+    "flavour": "discomfort, scheduled. your nervous system will hate you and then feel great.",
+    "duration": "10 mins",
+    "tags": ["cold", "discipline", "recovery"]
+  },
+  {
+    "id": "body-medium-010",
+    "category": "body",
+    "difficulty": "medium",
+    "title": "Spend 2 hours outside — hike, park, beach, anything",
+    "flavour": "touch grass. literally. that's the whole app. do it.",
+    "duration": "2 hours",
+    "tags": ["outside", "nature", "movement"]
+  }
+]
