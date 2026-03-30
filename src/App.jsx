@@ -118,7 +118,7 @@ export default function App() {
             await navigator.share({
               files: [file],
               title: 'Touch Grass',
-              text: `Today's quest: ${appState.currentQuest.title} — touchgrass.app`,
+              text: `Today's quest: ${appState.currentQuest.title} — touchgrass.brnrot.fun`,
             })
             return
           } catch {
@@ -141,7 +141,7 @@ export default function App() {
       try {
         const q = appState.currentQuest
         await navigator.clipboard.writeText(
-          `Touch Grass — Today's Quest\n\n${q.title}\n\n${q.flavour}\n\ntouchgrass.app`
+          `Touch Grass — Today's Quest\n\n${q.title}\n\n${q.flavour}\n\ntouchgrass.brnrot.fun`
         )
       } catch {
         // nothing
@@ -252,7 +252,7 @@ export default function App() {
               ⏱ {quest.duration}
             </p>
             <p style={{ fontSize: '12px', color: '#00ff41', letterSpacing: '2px', margin: 0 }}>
-              touchgrass.app
+              touchgrass.brnrot.fun
             </p>
           </div>
         </div>

@@ -54,7 +54,7 @@ export default function HeroSection() {
         NPC_OVERRIDE.exe
       </div>
       <div className="pointer-events-none absolute bottom-4 left-4 text-[#00ff41]/20 font-mono text-xs">
-        touchgrass.app
+        touchgrass.brnrot.fun
       </div>
     </section>
   )

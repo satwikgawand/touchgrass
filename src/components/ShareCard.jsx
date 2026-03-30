@@ -27,7 +27,7 @@ export default function ShareCard({ quest }) {
             await navigator.share({
               files: [file],
               title: 'Touch Grass',
-              text: `Today's quest: ${quest.title} — touchgrass.app`,
+              text: `Today's quest: ${quest.title} — touchgrass.brnrot.fun`,
             })
             return
           } catch {
@@ -47,7 +47,7 @@ export default function ShareCard({ quest }) {
       // Final fallback: copy text to clipboard
       try {
         await navigator.clipboard.writeText(
-          `Touch Grass — Today's Quest\n\n${quest.title}\n\n${quest.flavour}\n\ntouchgrass.app`
+          `Touch Grass — Today's Quest\n\n${quest.title}\n\n${quest.flavour}\n\ntouchgrass.brnrot.fun`
         )
         alert('Quest copied to clipboard!')
       } catch {
@@ -133,7 +133,7 @@ export default function ShareCard({ quest }) {
             ⏱ {quest.duration}
           </p>
           <p style={{ fontSize: '12px', color: '#00ff41', letterSpacing: '2px' }}>
-            touchgrass.app
+            touchgrass.brnrot.fun
           </p>
         </div>
       </div>
@@ -166,7 +166,7 @@ export function useShareCard(quest) {
             await navigator.share({
               files: [file],
               title: 'Touch Grass',
-              text: `Today's quest: ${quest.title} — touchgrass.app`,
+              text: `Today's quest: ${quest.title} — touchgrass.brnrot.fun`,
             })
             return
           } catch {
@@ -184,7 +184,7 @@ export function useShareCard(quest) {
     } catch {
       try {
         await navigator.clipboard.writeText(
-          `Touch Grass — Today's Quest\n\n${quest.title}\n\n${quest.flavour}\n\ntouchgrass.app`
+          `Touch Grass — Today's Quest\n\n${quest.title}\n\n${quest.flavour}\n\ntouchgrass.brnrot.fun`
         )
       } catch {
         // nothing
