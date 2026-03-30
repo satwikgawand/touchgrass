@@ -188,7 +188,7 @@ export default function App() {
       {/* Footer */}
       <footer className="border-t border-[#1a1a1a] py-8 text-center">
         <p className="font-mono text-xs text-gray-700 tracking-widest">
-          TOUCHGRASS.APP — GO OUTSIDE
+          TOUCHGRASS.BRNROT.FUN — DON'T BE AN NPC
         </p>
       </footer>
 
